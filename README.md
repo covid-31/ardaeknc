@@ -1,2 +1,2 @@
 # ardaeknc
-Kodlama ögreniyorm
+www.patika.dev
