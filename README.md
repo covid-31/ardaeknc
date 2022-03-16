@@ -1,0 +1,2 @@
+# ardaeknc
+Kodlama ögreniyorm
